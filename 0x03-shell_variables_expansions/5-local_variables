@@ -1,0 +1,4 @@
+#!/bin/bash
+#list all variables and shell functions
+
+set

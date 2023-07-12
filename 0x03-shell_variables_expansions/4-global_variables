@@ -1,0 +1,7 @@
+#!/bin/bash
+#listing environment
+
+
+
+printenv
+

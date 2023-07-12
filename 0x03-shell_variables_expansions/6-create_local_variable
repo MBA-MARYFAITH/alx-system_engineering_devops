@@ -1,0 +1,6 @@
+#!/bin/bash
+# create local variable
+BEST="school"
+
+echo $BEST
+
